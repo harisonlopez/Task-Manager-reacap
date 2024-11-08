@@ -1,0 +1,22 @@
+export let userData=[
+  {
+    id:'1',
+    name:"harison"
+  },
+  {
+    id:'2',
+    name:"Priya"
+  },
+  {
+    id:'3',
+    name:"Joy"
+  },
+  {
+    id:'4',
+    name:"Aju"
+  },
+  {
+    id:'5',
+    name:"Yash"
+  }
+]
